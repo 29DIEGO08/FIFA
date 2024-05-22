@@ -3,6 +3,13 @@ head {
 }
 
 .Navbarmain{
-   
-    
+   background-color: #045694;
+   height: 80px;
+}
+.Navbarmain .logo{
+    width: 10%;
+    height: 0,5%;
+}
+#link-tex .navbar-nav{
+color
 }
