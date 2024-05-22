@@ -2,13 +2,20 @@ head {
 
 }
 
+.Navbar-secondary {
+    background-color: #045694;
+    text-align-last: right;
+    border-color: white;
+}
+
 .Navbarmain{
    background-color: #045694;
-   height: 80px;
+   height: 50px;
+   border-color: white;
 }
 .Navbarmain .logo{
-    width: 10%;
-    height: 0,5%;
+    width: 9%;
+    height: 45px;
 }
 #link-tex .navbar-nav{
     font-color: white;
