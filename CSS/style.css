@@ -6,6 +6,7 @@ head {
     background-color: #045694;
     text-align-last: right;
     border-color: white;
+    height: 30px;
 }
 
 .Navbarmain{
@@ -13,10 +14,5 @@ head {
    height: 50px;
    border-color: white;
 }
-.Navbarmain .logo{
-    width: 9%;
-    height: 45px;
-}
-#link-tex .navbar-nav{
-    font-color: white;
-}
+
+   
