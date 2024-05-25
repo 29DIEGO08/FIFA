@@ -1,7 +1,3 @@
-head {
-
-}
-
 .Navbar-secondary {
     background-color: #045694;
     text-align-last: right;
@@ -12,6 +8,10 @@ head {
 .Navbarmain{
    background-color: #045694;
    height: 50px;
- }
+}
+
+.link-tex .link-tex-2{
+  justify-content: end;
+}
 
    
